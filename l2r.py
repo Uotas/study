@@ -1,3 +1,4 @@
+#this is a new day
 #coding=utf-8
 '''
 from jieba import analyse
